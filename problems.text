@@ -76,3 +76,30 @@ Start looping from 5 to 55 and Stop looping after 50 using break
 Start looping from 1 to 20 and skip for the iteration of all even numbers using continue
 Start looping from 1 to 20 and skip for the iteration of all odd numbers using continue
 Start looping from 1 to 50 and skip for the iteration of the numbers divisible by 5 using continue
+
+10. 
+Write a loop 1 to 200. Use break to exit the loop once you find 100.
+Write a while loop that adds numbers starting from 1, but stops (using break) as soon as the sum reaches or exceeds 100
+Write a loop that goes from 1 to 100, but stops (using break) when it encounters the first square number (like 4, 9, 16, etc.)
+
+11.
+Write a loop to print even numbers from 1 to 40. Use continue to skip odd numbers.
+display odd number from 55 to 85 and skip the numbers divisible by 5.
+
+12.
+I will invest at least 6 hrs every single day for next 60 days!" this message 60 times. So display this.
+Find all the odd numbers from 61 to 100.
+Find all the even numbers from 78 to 98.
+Display sum of all the odd numbers from 91 to 129.
+Display sum of all the even numbers from 51 to 85.
+Generate a multiplication table for number 9
+Implement a countdown timer that counts down from 81 to 65.
+
+[Note: solve those problem using both for and while loop]
+
+13.
+Take four parameters. Multiply the four numbers and then return the result.
+Take a number if the number is odd multiply it by 2 and return the result. If the number is even divide it by two and return the result.
+Write a function called make_avg() which will take an array of integers and the size of that array and return the average of those values.
+Write a function called count_zero() which will take a binary string (Binary string is a string which is consist of only 0 and 1) as parameter and count how many 0’s are there in that string.
+Write a function called odd_even() which takes an integer value and tells whether this value is even or odd. If even return Even. If odd return Odd
